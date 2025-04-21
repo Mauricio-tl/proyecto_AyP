@@ -4,7 +4,11 @@
 ### Mauricio Tuberquia Londoño
 Estudiante de **Ingeniería Industrial** en la Universidad de Antioquia, cursando quinto semestre. Apasionado por la solución de problemas, con habilidades blandas como liderazgo, inteligencia emocional, comunicación efectiva y pensamiento crítico. Destaco en habilidades duras como análisis matemático y gestión de proyectos. Soy proactivo, trabajo bien bajo presión y me adapto fácilmente al trabajo en equipo, manteniendo siempre paciencia y compromiso con mi formación académica.
 ### Isabella Aguas Oviedo 
-### Camilo Andres Puerta Benitez 
+Estudiante de Ingeniería Industrial, cursando el quinto semestre en la Universidad de Antioquia. He fortalecido mi formación académica con una técnica en Programación de Software en el SENA, además de cursos complementarios en Mercadeo y Marketing Digital, que me han permitido fortalecer una visión integral de los procesos empresariales y tecnológicos. Me destaco por ser una persona creativa, con pensamiento estratégico y atención al detalle. Disfruto trabajar en ambientes dinámicos, aprender de manera autónoma y aplicar mis conocimientos en situaciones reales. Me enfoco en la mejora continua, guiada por valores como la responsabilidad, la curiosidad intelectual y la disciplina, que fortalecen mi formación y desempeño académico.
+### Camilo Andres Puerta Benitez
+Estudiante de ingeniería industrial de la universidad de Antioquía, estoy cursando el cuarto semestre, me gusta mucho la tecnología y la innovación, poseo habilidades blandas como la comunicación efectiva, el trabajo en equipo, la resolución de problemas, empatía, creatividad y adaptabilidad, me destaco por tener habilidades duras como analisis matemáticos, gestionar proyectos contables y el análisis de datos.
+
+Me caracterizo por ser una persona proactiva y colaborativa, con habilidades para trabajar en equipo y alcanzar objetivos comunes, soy adaptable, disciplinado y flexible y siempre busco mejorar y aprender.
 
 
 # "PARKADEMIC"
