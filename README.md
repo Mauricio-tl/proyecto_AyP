@@ -7,7 +7,7 @@ Estudiante de **Ingeniería Industrial** en la Universidad de Antioquia, cursand
 ### Camilo Andres Puerta Benitez 
 
 
-# PARKADEMIC
+# "PARKADEMIC"
 **Parkademic** es un proyecto de aula que consiste en el desarrollo de un software de gestión para el parqueadero universitario. Su objetivo principal es automatizar y optimizar el control de acceso de vehículos, ofreciendo funciones básicas como el registro del vehiculo y el dueño, tiempo de parqueo, el dinero que se debe cobrar, entre otras mas funciones.  
 
 para la realización de este proyecto usaremos como lenguaje de programacion __python__, ya que es el lenguaje que se esta aprendiendo en el curso. Esperamos que a través de este proyecto adquiramos conocimineto de los fundamentos principales de la programación, que má adelante necesitaremos. 
@@ -54,7 +54,7 @@ A continucación encontrarán la tabla correspondiente a las fechas de inicio, y
   <img src="https://github.com/Mauricio-tl/proyecto_AyP/blob/9655fc471e87073eaafb864332e0796d1aea168b/calendario%20de%20actividades%20.png" alt="Calendario" width="600">
 </div>
 
-## Diagrama de Gannt 
+## Diagrama de Gantt 
 Con la información dada anteriormente se propuso el siguiente modelo de trabajo, en donde tardaremos aproximadamente 8 semanas en dar finalidad al proyecto, se trabajará de manera ordenada, donde solo iremos avanzando respecto a los conocimientos adquiridos durante las clases, es decir, no se adelantarán etapas si no tenemos los conocimientos necesarios para hacerla.
 
 ![Diagrama de Gantt](https://github.com/Mauricio-tl/proyecto_AyP/blob/9655fc471e87073eaafb864332e0796d1aea168b/diagrama%20de%20Gantt.png)
